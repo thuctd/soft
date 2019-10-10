@@ -1,0 +1,165 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+471sc:471 Suối Cao
+472mk:472 Minh Khai
+473xt:473 Xuân Trường
+474dn:474 Dona
+475sr:475 Sông Ray
+476xh:476 Xuân Hòa
+477xp:477 Xuân Phú
+478xh:478 Xuân Hưng
+480xb:480 Xuân Bắc
+bgd :Ban Giám đốc
+btn:Bùi Tuấn
+cnan:Cồ Ngọc Ân
+dbtg:Đậu Bá Trường
+dclu:Đào Công Liêu
+ddqc:Dương Đức Quốc
+ddqg:Đoàn Duy Quang
+dhdo:Đỗ Hoàng Đạo
+dhn:Đoàn Huân
+dldn:Công ty TNHH một thành viên Điện lực Đồng Nai
+dlxl:Điện lực Xuân Lộc
+dmnt:Đào Minh Nhật
+dqch:Đoàn Quốc Chánh
+dql:Đội QLVH ĐD&TBA
+dqlvh:Đội Quản lý vận hành đường dây và trạm biến áp
+dtn:Đặng Thuận
+dtna:Đỗ Thiện Nhã
+dtsn:Đoàn Thanh Sơn
+dvcg:Đinh Văn Cường
+dvno:Đinh Văn Nhờ
+dvvh:Đinh Văn Vinh
+hdlg:Hồ Đắc Long
+hdmn:Hồ Duy Mãn
+hndi:Hồ Ngọc Đài
+htttc:Hồ Thị Túy Trúc
+hvcg:Hồ Văn Cường
+hvdi:Hoàng Văn Đại
+hvhh:Huỳnh Văn Hạnh
+hvsn:Hồ Văn Sơn
+hvt:Họ và Tên
+hvtn:Hoàng Văn Thiện
+lctg:Lê Cường Tráng
+ldtg:Lê Đức Thông
+lhpc:Lê Hoàng Phúc
+lhti:Long Hồng Thái
+lknm:Lê Khoa Nam
+llp:Lê Lập
+lmkh:Lê Minh Khánh
+lmtm:Lê Minh Tâm
+lmtn:Lâm Minh Tuấn
+lnnm:Lê Ngọc Nam
+lnth:Lê Ngọc Thanh
+lpdy:Lâm Phạm Duy
+lqsg:Lê Quốc Sủng
+ltcg:Lê Thành Công
+lthu:Lê Trọng Hiếu
+ltvn:Lương Thành Viên
+ltvt:Lê Thanh Việt
+lvlg:Lê Văn Lượng
+lvpg:Lý Văn Phương
+lxhg:Lê Xuân Hưng
+lxhi:Lê Xuân Hãi
+mncg:Mai Ngọc Chương
+napg:Nguyễn Anh Phong
+natn:Nguyễn Anh Tuấn
+nckm:Ngô Công Kiếm
+nclh:Nguyễn Công Linh
+ndhu:Nguyễn Đình Hiệu
+ndkh:Nguyễn Duy Khánh
+ndmah:Nguyễn Đình Mai Anh
+ndtg:Nguyễn Đình Thắng
+ndtg:Nguyễn Đình Trường
+ndth:Nguyễn Đức Thịnh
+ndtm:Nguyễn Đình Tâm
+ndtn:Nguyễn Đình Thuận
+nhah:Nguyễn Hoàng Anh
+nhcg:Nguyễn Hữu Chung
+nhhh:Nguyễn Hữu Hạnh
+nhhu:Nguyễn Huy Hiệu
+nhmh:Nguyễn Hoàng Minh
+nhsn:Nguyễn Hoàng Sơn
+nhvt:Nguyễn Hoài Việt
+nkhg:Nguyễn Khắc Hoàng
+nlhi:Nguyễn Lâm Hải
+nmh:Nguyễn Minh
+nmhu:Nguyễn Minh Hiếu
+nnaka:Nguyễn Ngọc An Khoa
+nnmh:Nguyễn Ngọc Minh
+nqhn:Nguyễn Quang Hân
+nqhu:Nguyễn Quang Hiếu
+nqhu:Nguyễn Quốc Hiếu
+ntcg:Nguyễn Thành Công
+ntdg:Nguyễn Tiến Dũng
+ntdg:Nguyễn Tiến Dũng
+ntdt:Nguyễn Thành Đạt
+nti:Nguyễn Trãi
+ntlg:Nguyễn Tiến Long
+ntmdy:Nguyễn Thái Minh Duy
+ntn:Nguyễn Tuấn
+ntna:Nguyễn Trọng Nghĩa
+ntnhn:Nguyễn Thị Ngọc Hân
+ntnn:Nguyễn Thanh Nhàn
+ntnna:Nguyễn Thị Ngọc Nga
+ntnt:Nguyễn Thống Nhất
+ntpg:Nguyễn Thanh Phong
+ntpi:Nguyễn Tiến Phi
+nttg:Nguyễn Thành Trung
+ntthg:Nguyễn Thị Tuyết Hồng
+ntti:Nguyễn Thanh Trí
+ntti:Nguyễn Thị Thơi
+nttn:Nguyễn Thanh Tuấn
+nvci:Nguyễn Văn Chí
+nvhi:Nguyễn Văn Hội
+nvkh:Nguyễn Vĩnh Khánh
+nvpc:Nguyễn Văn Phước
+nvti:Nguyễn Văn Tri
+pdch:Phạm Đình Chinh
+pddy:Phạm Đình Duy
+pdki:Phạm Đình Khôi
+phdg:Phạm Hoàng Dũng
+pkd:Phòng Kinh doanh
+pkt:Phòng Kế hoạch - Kỹ thuật
+pqhg:Phạm Quốc Hưng
+pqvpu:Phạm Quang Vĩnh Phú
+ptc:Phòng Tài chính - Kế toán
+pth:Phòng Tổng Hợp
+ptna:Phùng Tiến Nga
+ptpc:Phạm Tấn Phước
+pvmh:Phạm Văn Mạnh
+pvtg:Phạm Văn Trung
+tatn:Trần Anh Tuấn
+tclc:Trần Chí Lực
+tdbo:Trịnh Duy Bảo
+tdkh:Trần Duy Khánh
+tdtc:Trần Đại Thức
+thucs:thucspc@gmail.com
+tklm:Trần Kim Lâm
+tmtn:Trần Minh Tấn
+tndc:Trần Ngọc Đức
+tnln:Trương Như Luyện
+tqah:Tô Quang Anh
+tqcg:Trịnh Quốc Công
+tqhg:Trần Quang Hoàng
+tqvt:Trần Quốc Việt
+ttcm:Trần Thị Cẩm
+ttho:Trần Thanh Hảo
+ttmn:Tô Thị Miên
+ttnha:Trần Thị Ngọc Hà
+ttnn:Thái Thọ Nhơn
+ttthg:Trần Thị Thanh Hương
+ttttu:Trần Thị Thanh Thư
+ttvn:Trần Thị Vân
+tvha:Trần Văn Hà
+tvtn:Trương Viết Tiến
+txhi:Trần Xuân Hải
+vltg:Võ Long Trung
+vncn:Võ Ngọc Cẩn
+vthu:Vũ Thành Hiếu
+nhpah:Nguyễn Hải Phước Anh
+lxpc:Lê Xuân Phước
+gdc:Giám Đốc
+gddl:Giám đốc Điện lực
+pgdc:Phó Giám đốc
+tpg:Trưởng Phòng
+ptpg:Phó Trưởng Phòng

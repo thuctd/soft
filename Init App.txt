@@ -1,0 +1,17 @@
+
+Mirroring a repository
+Open Git Bash.
+
+Create a bare clone of the repository.
+
+$ git clone --bare https://github.com/thuctd/thnvx.git
+Mirror-push to the new repository.
+
+$ cd thnvx.git
+$ git push --mirror https://github.com/thuctd/vehicle-manager.git
+Remove the temporary local repository you created in step 1.
+
+$ cd ..
+$ rm -rf old-repository.git
+
+git clone https://github.com/thuctd/vehicle-manager.git
