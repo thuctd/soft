@@ -1,0 +1,1 @@
+*.htm, *.ini, *.html, *.xml, *.manifest, *.hve, *.blf, *.etl, *.lnk, *.log, *.db, ~$*, *{*
