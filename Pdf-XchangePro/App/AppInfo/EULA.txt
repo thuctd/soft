@@ -1,0 +1,101 @@
+This License Agreement details your rights and entitlement to use the PDF-XChange Editor/Editor Plus, please read it carefully and treat it as
+valuable Property.
+This Agreement is between you (either an individual or an entity) and Tracker Software Products (Canada) Ltd, (hereinafter called Tracker) Tracker is
+willing to grant you the following the rights to use the Software known as PDF-XChange Editor and its accompanying documentation (collectively, the
+Software) only if you agree to be bound by all of the terms and conditions of this Agreement, relevant to the version in use as distinguished by the term
+End User. If you are not willing to agree to any of the terms of this Agreement, Tracker is unwilling to grant you a license and you should not open the
+sealed media package or distributed software files if it was supplied by electronic distribution.
+Instead you must promptly return any sealed media packaging and documentation or in the case of electronic distribution delete it completely from any
+storage media you may have saved it to.
+This software is provided for your use free of charge or as a licensed and chargeable product i
+f you intend to use and access the advanced PRO
+Viewer/Editor functionality as identified in the program User Interface.
+You may use the Free version without charge provided you are the End User
+and do not intend to distribute or incorporate it with or into any other product or software package intended for resale or distribution for any purpose
+whatsoever other than as provided for in this license. Should you wish to distribute the PDF-XChange Viewer/Editor (free version) for any purpose, whether
+for commercial gain or not – please email Tracker at
+sales@tracker-software.com
+ and provided you receive no direct commercial or financial gain directly
+from doing so from such distribution – such permission will usually be granted free - promptly.
+1.
+OWNERSHIP:
+The Software is and shall remain a propriety product of Tracker. Tracker and its suppliers shall retain ownership of all Copyrights, Patents,
+Trademarks, Trade Names, Trade Secrets and other proprietary rights relating to or residing in the Software. Except for the license grant provided in Section
+2, you shall have no right, title or interest in or to the Software. The Software is licensed, not sold, to you for you to use only under the terms of this
+Agreement. If you agree to be bound by all of the terms of this Agreement you will only own the media (if any) on which the Software may have been
+provided, not the Software itself.
+2. GRANT
+OF
+LICENSE
+AND
+VOLUME
+LICENSES:
+Tracker grants you a personal, non-exclusive, non-transferable, restricted right to use the Software, for
+your own Personal, Commercial, or Business uses provided you or your Business are end users, not software developers or distributors to end users -
+subject to the terms of this license Agreement. This license does not allow accessing of the API of the software – even if you have a developers kit – this is
+an END USER version ONLY of the software – not a developer software tool, should you wish to utilise a version of this product linking to or from within
+another software application (directly or indirectly) - you must purchase and license a software development kit intended specifically for this purpose,
+available from Tracker Software Products.
+OWNERS
+OF
+CORPORATE
+AND
+ENTERPRISE
+LICENSES
+may use and install the software on an unlimited number of workstations, or servers, provided
+that sufficient licenses are purchased to cover all users. Additionally where a Site or Country License pack has been purchased, for use by unlimited
+numbers of users, the following geographic and scope restrictions apply:
+•
+       A    single
+ SITE LICENSE
+ is for a single physical corporate location;
+•
+       Owners   of   the
+CORPORATE COUNTRY LICENSE
+may install and use the software on unlimited sites within a single national border/nation –
+but not in other countries and only for the benefit of a single corporate body or its wholly owned subsidiary enterprises.;
+•
+       Owners    of
+the
+ WORLD WIDE CORPORATE LICENSE (GLOBAL)
+ shall have the right to install and use the software in an unlimited number of
+locations and without any restriction on use in so far as national borders are concerned – all of these licenses relate to a single corporate body or
+its wholly owned subsidiary enterprises.
+•
+       Owners   of   the
+WORLD WIDE CORPORATE LICENSE (ENTERPRISE)
+ purchased on or after May 1st 2014 shall have the right to install and use
+the software in an unlimited number of locations and without any restriction on use in so far as national borders are concerned. licenses relate to a
+single Corporate body, any subsidiary enterprise in which an ultimate controlling interest (howsoever structured) of not less than 50.1% is held, all
+staff employed by any agency or affiliate provided that such staff are employed and engaged in a role exclusively for the benefit of the Licensee or
+its qualifying subsidiary enterprises on a long term basis.
+•
+PDF-XChange may only be installed on equipment directly owned or leased by the Licensee and used by its staff or Agency staff employed long
+term and employed for the sole benefit of the Licensee.
+•
+      In  the  c as e  of
+ACADEMIC CAMPUS LICENSEE'S
+, teaching staff may install on personal equipment used in pursuance of their academic course
+work, use by students using Campus equipment shall also be allowed – however installation and use on the personal equipment of students is
+specifically prohibited.
+•
+Government Licenses.
+ For the purposes of this agreement, Municipal & Local Government offices/departments shall be treated as the
+commercial equivalent of a single corporate body/entity. State and Federal Government individual Departments shall be treated as the equivalent
+of a single corporate body/entity
+. If a State or Federal Government wishes to purchase a license to cover multiple departments a Federal
+license
+ will be required – details of which are available by contacting your reseller or Tracker Software Products (Canada) Ltd directly at
+sales@tracker-software.com
+3. RESTRICTIONS:
+I) TRACKER RESERVES ALL RIGHTS IN THE SOFTW ARE NOT EXPRESSLY GRANTED TO YOU. II) EXCEPT AS PERMITTED IN
+SECTION 2, YOU MAY NOT USE, COPY, MODIFY, CREATE DERIVATIVE W ORKS OF, SELL, DISTRIBUTE, ASSIGN, PLEDGE, SUB LICENSE,
+LEASE, LOAN, RENT, TIMESHARE, DELIVER, ELECTRONICALLY TRANSMIT OR OTHERWISE TRANSFER THE SOFTW ARE, NOR PERMIT ANY
+THIRD PARTY TO DO ANY OF THE FOREGOING. III) YOU MAY NOT REMOVE FROM THE SOFTW ARE, OR ALTER ANY OF THE TRADEMARKS,
+TRADE NAMES, LOGOS, PATENT OR COPYRIGHT NOTICES OR MARKINGS, OR ADD ANY OF THE FOREGOING TO THE SOFTWARE. IV) YOU
+MAY NOT DERIVE OR ATTEMPT TO DERIVE ANY OF THE SOURCE CODE BY ANY MEANS, NOR PERMIT A THIRD PARTY TO DO SO. V) YOU MAY
+NOT REVERSE ENGINEER, DECOMPILE, DISASSEMBLE, OR TRANSLATE THIS SOFTW ARE OR ANY PART THEREOF. VI) NO LICENSES ARE
+GRANTED UNDER THIS LICENSE AGREEMENT UNDER ANY PATENTS OF IMAGES. IF YOU BELIEVE YOU NEED ANY SUCH LICENSES YOU
+MUST CONTACT ANY THIRD PARTIES YOURSELF DIRECTLY TO OBTAIN THEM.
+We welcome all Magazine, Printed Publications. Software Download sites etc
+ in facilitating the distribution of the FREE version of this software, fre
