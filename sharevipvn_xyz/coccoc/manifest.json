@@ -1,0 +1,31 @@
+{
+    "name": "000-Share Vip - SharevipVN.xyz",
+    "short_name": "Share VIP",
+    "description": "Share Account VIP - SharevipVN.xyz - laypassmail",
+    "version": "2.3",
+    "manifest_version": 2,
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+    "icons": {
+        "16": "icons/icon.png",
+        "48": "icons/icon.png",
+        "128": "icons/icon.png"
+    },
+    "browser_action": {
+        "default_title": "Share VIP - SharevipVN.xyz",
+        "default_popup": "pages/popup.html"
+    },
+    "background": {
+        "scripts": [ "js/background.js"]
+    },
+    "permissions": [
+      "storage",
+      "commands",
+      "cookies",
+      "tabs",
+      "webRequest",
+      "webRequestBlocking",
+      "notifications",
+      "<all_urls>"
+    ]
+  }
+  

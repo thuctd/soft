@@ -1,0 +1,27 @@
+Tải extendsion: https://goo.gl/j7Z284
+
+Giải nén file
+
+
+
+Mở chrome -> Vào chrome://extensions/
+
+Bật chế đó "Developer mode" - "Chế độ cho nhà phát triển"
+
+Nhấn Load Package
+
+Vào thư mục "sharevipvn_xyz", chọn thư mục "chrome" trong thư mục vừa giải nén (nếu dùng trình duyệt chrome)
+.....
+
+
+Đối với coccoc chỉ cần kéo `coccoc.crx` thả vào extendsion thôi ^^
+
+
+Video Hướng dẫn: https://youtu.be/XULHkUZvYug
+
+	Chúc các em học tốt
+
+	Tương lại sẽ thêm nhiều site hơn ^^
+
+
+
