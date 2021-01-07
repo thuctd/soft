@@ -31,6 +31,7 @@ dhn:Đoàn Huân
 dhr:Đỉnh
 dhs:Đính
 dhx:Đĩnh
+dlc:Điệc lực
 dldn:Công ty TNHH một thành viên Điện lực Đồng Nai
 dlxl:Điện lực Xuân Lộc
 dmnt:Đào Minh Nhật
@@ -46,6 +47,7 @@ dvvh:Đinh Văn Vinh
 dwg:Đường
 gdc:Giám Đốc
 gddl:Giám đốc Điện lực
+gdl:Giám đốc Điện lực
 hdlg:Hồ Đắc Long
 hdmn:Hồ Duy Mãn
 hgf:Hoàng
@@ -98,6 +100,7 @@ nclh:Nguyễn Công Linh
 ndhu:Nguyễn Đình Hiệu
 ndkh:Nguyễn Duy Khánh
 ndmah:Nguyễn Đình Mai Anh
+ndpc:Nguyễn Đình Phúc
 ndtg:Nguyễn Đình Thắng
 ndtg:Nguyễn Đình Trường
 ndth:Nguyễn Đức Thịnh
